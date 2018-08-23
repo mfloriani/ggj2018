@@ -1,4 +1,4 @@
-# ggj2018
+# GGJ2018
 Game developed during the global game jam 2018
 
 # Gameplay video
